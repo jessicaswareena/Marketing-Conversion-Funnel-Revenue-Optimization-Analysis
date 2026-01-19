@@ -4,7 +4,7 @@
 
 # Marketing Conversion Funnel & Revenue Optimization Analysis  
 A mid-sized e commerce brand in the **activewear and lifestyle accessories** space was struggling with **plateauing revenue despite healthy traffic** from Email, Adwords, Organic search, Facebook, and YouTube. Leadership wanted to know whether the problem was- weak traffic or an experience that failed users who were already ready to buy. 
-As the *Data Analyst supporting Growth and Product*, the goal of this project was to turn session data into a clear, decision ready view of where the funnel leaks, which channels quietly carry the business, and what must be fixed before more money goes into acquisition.
+As the **Data Analyst supporting Growth and Product**, the goal of this project was to turn session data into a clear, decision ready view of where the funnel leaks, which channels quietly carry the business, and what must be fixed before more money goes into acquisition.
 ## 📌 Project Overview
 FlexLife serves roughly **40,000** customers through a digital first storefront focused on performance apparel, athleisure, and related accessories. Traffic is driven primarily by **Email campaigns, paid search (Adwords), Organic search, and social media** placements on Facebook and YouTube. Despite solid visit volumes, revenue growth has been uneven and conversion rates underwhelming, prompting concerns about both traffic quality and onsite experience.
 
@@ -52,7 +52,7 @@ The entire interactive dashboard can be downloaded here.
 
  ## Insights Deep Dive
 ### Funnel Drop-Off & Checkout Friction
-![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/f0adcebcd9009f8199fdc520b3ab3a83d4cdd81e/FunnelAnalysis.png)
+![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/0a6cac58f0ae98ac5aee5d67a75333043a46cc4e/FunnelAnalysis.png)
 Understanding where potential customers fall out of the funnel requires tracking movement through three key stages:
 
      1.	Product view
@@ -63,9 +63,9 @@ Understanding where potential customers fall out of the funnel requires tracking
      
 Critical drop off metrics:
 
-     •	Product → cart drop: 15.92%: This reflects typical browsing behavior as users explore options.
+     •	Product → cart drop: 15.92%- This reflects typical browsing behavior as users explore options.
 
-     •	Cart → purchase drop: 94.51% abandonment: Only 5.49%of cart sessions result in an order.
+     •	Cart → purchase drop: 94.51% abandonment- Only 5.49%of cart sessions result in an order.
 
 ### Patterns:
 
@@ -90,7 +90,7 @@ The next part of the analysis evaluates whether some channels are fundamentally 
 
       » Adwords and Email sessions convert more slowly (around 62–63 minutes) but bring higher order values.
       
-       » Organic sessions convert faster (around 23 minutes) but with slightly lower average revenue per order.
+      » Organic sessions convert faster (around 23 minutes) but with slightly lower average revenue per order.
       
 ### Implications:
 
@@ -246,13 +246,13 @@ The analysis uses **session level** web analytics data over a defined time perio
     
 Important assumptions and caveats:
 
-    •	No reliable cross session **user identifiers**, so behavior is evaluated at the session 
+    •	No reliable cross session user identifiers, so behavior is evaluated at the session 
       level rather than per customer.
       
-    •	Channel attribution follows a **time based last touch** approach, which may under value 
+    •	Channel attribution follows a time based last touch approach, which may under value 
       earlier discovery interactions.
       
-    •	Revenue is tied only to **completed orders**; sessions with purchase events but missing 
+    •	Revenue is tied only to completed orders; sessions with purchase events but missing 
       order records are excluded from revenue metrics.
       
     •	Findings reflect the analyzed period; the same framework can be rerun as campaigns and 
