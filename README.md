@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/e081e7f0bd87f9de0dae68bbcf05f73b9c0abc2a/FlexLife-Logo.png" width="150">
+  <img src="https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/10b7433a4ee58b631073f550e52c3fedc40d8450/images/FlexLife-Logo.png" width="150">
 </p>
 
 # Marketing Conversion Funnel & Revenue Optimization Analysis  
@@ -33,9 +33,9 @@ All subsequent sections connect directly back to these questions.
 
 ## 🧱 Data Structure
 FlexLife's datastructure as seen below consists of four tables:Events,Users,Order_items,Orders with a total row count of 82,382 records.
-![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/7e506929609bf70ba187ceda62902f6899dd4ac6/ER%20Diagram.jpeg)
+![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/10b7433a4ee58b631073f550e52c3fedc40d8450/ER%20Diagram.jpeg)
 ## 📊 Executive Summary
-![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/c2219d24490a05136fcc0351b9c30bf8168d0e73/ExecutiveOverview.png)
+![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/10b7433a4ee58b631073f550e52c3fedc40d8450/ExecutiveOverview.png)
 ### OverView of Findings
 
 At the highest level, the analysis shows a business with **enough traffic but insufficient conversion efficiency.**
@@ -52,7 +52,7 @@ The entire interactive dashboard can be downloaded [here.](https://app.powerbi.c
 
  ## Insights Deep Dive
 ### Funnel Drop-Off & Checkout Friction
-![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/0a6cac58f0ae98ac5aee5d67a75333043a46cc4e/FunnelAnalysis.png)
+![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/10b7433a4ee58b631073f550e52c3fedc40d8450/images/FunnelAnalysis.png)
 Understanding where potential customers fall out of the funnel requires tracking movement through three key stages:
 
      1.	Product view
@@ -77,7 +77,7 @@ Critical drop off metrics:
 
 Likely drivers include complex forms, unexpected fees, confusing shipping options, limited payment methods, or insufficient trust and reassurance at the payment step.
 ## 📈 Channel Performance & Traffic Quality
-![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/74fbc1370bc80e637c3638e303519ceae8d039f2/ChannelOptimization.png)
+![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/10b7433a4ee58b631073f550e52c3fedc40d8450/ChannelOptimization.png)
 The next part of the analysis evaluates whether some channels are fundamentally weaker or if the problem is uniform.
 
 ### Key findings:
