@@ -50,7 +50,7 @@ Below is the overview page from PowerBI dashboard. The entire interactive dashbo
 
 ## Insights Deep Dive
 **Funnel Drop-Off & Checkout Friction**
-![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/74fbc1370bc80e637c3638e303519ceae8d039f2/Funnel%20Analysis.png)
+![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/f0adcebcd9009f8199fdc520b3ab3a83d4cdd81e/FunnelAnalysis.png)
 Understanding where potential customers fall out of the funnel requires tracking movement through three key stages:
 
      1.	**Product view**
