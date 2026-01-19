@@ -33,10 +33,9 @@ All subsequent sections connect directly back to these questions.
 
 ## 🧱 Data Structure
 FlexLife's datastructure as seen below consists of four tables:Events,Users,Order_items,Orders with a total row count of 82,382 records.
-![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/c2219d24490a05136fcc0351b9c30bf8168d0e73/ExecutiveOverview.png)
-
-## 📊 Executive Summary
 ![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/7e506929609bf70ba187ceda62902f6899dd4ac6/ER%20Diagram.jpeg)
+## 📊 Executive Summary
+![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/c2219d24490a05136fcc0351b9c30bf8168d0e73/ExecutiveOverview.png)
 **OverView of Findings**
 •	Out of every 100 sessions, around 4 take a clear step toward buying (add to cart or begin checkout).
 
