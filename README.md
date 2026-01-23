@@ -39,7 +39,7 @@ FlexLife's datastructure as seen below consists of four tables:Events,Users,Orde
 <h2 align="center"> 📊 Executive Summary </h2>
 
 ![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/10b7433a4ee58b631073f550e52c3fedc40d8450/ExecutiveOverview.png)
-### OverView of Findings
+### Overview of Findings
 
 At the highest level, the analysis shows a business with **enough traffic but insufficient conversion efficiency.**
 
@@ -54,6 +54,7 @@ This immediately points the organization away from “buy more traffic” and to
 The entire interactive dashboard can be downloaded [here.](https://app.powerbi.com/reportEmbed?reportId=a3ef3576-0b10-4fa9-b204-86aae5564972&autoAuth=true&ctid=750d3a3f-1f46-4da2-8a64-7605e75ea2f9)
 
 <h2 align="center"> Insights Deep Dive </h2>
+
 ### Funnel Drop-Off & Checkout Friction
 
 ![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/10b7433a4ee58b631073f550e52c3fedc40d8450/images/FunnelAnalysis.png)
@@ -81,6 +82,7 @@ Critical drop off metrics:
 
 Likely drivers include complex forms, unexpected fees, confusing shipping options, limited payment methods, or insufficient trust and reassurance at the payment step.
 <h2 align="center"> 📈 Channel Performance & Traffic Quality </h2>
+
 ![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/10b7433a4ee58b631073f550e52c3fedc40d8450/ChannelOptimization.png)
 The next part of the analysis evaluates whether some channels are fundamentally weaker or if the problem is uniform.
 
