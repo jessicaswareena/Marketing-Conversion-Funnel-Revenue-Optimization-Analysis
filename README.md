@@ -19,7 +19,7 @@ This analysis is designed for stakeholders who need to quickly understand:
 
 •	What specific actions can unlock more revenue without raising acquisition spend.
 
-## 🌐 Key Insights & Analysis Focus area
+<h2 align="center">🌐 Key Insights & Analysis Focus area </h2>
 The work is organized around four core questions that shaped the metrics, visuals, and recommendations:
 
 •	Funnel health: How well do sessions move from visit → intent → purchase?
@@ -34,8 +34,10 @@ All subsequent sections connect directly back to these questions.
 
 <h2 align="center"> 🧱 Data Structure</h2>
 FlexLife's datastructure as seen below consists of four tables:Events,Users,Order_items,Orders with a total row count of 82,382 records.
+
 ![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/10b7433a4ee58b631073f550e52c3fedc40d8450/ER%20Diagram.jpeg)
-## 📊 Executive Summary
+<h2 align="center"> 📊 Executive Summary </h2>
+
 ![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/10b7433a4ee58b631073f550e52c3fedc40d8450/ExecutiveOverview.png)
 ### OverView of Findings
 
@@ -53,6 +55,7 @@ The entire interactive dashboard can be downloaded [here.](https://app.powerbi.c
 
 <h2 align="center"> Insights Deep Dive </h2>
 ### Funnel Drop-Off & Checkout Friction
+
 ![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/10b7433a4ee58b631073f550e52c3fedc40d8450/images/FunnelAnalysis.png)
 Understanding where potential customers fall out of the funnel requires tracking movement through three key stages:
 
@@ -130,7 +133,7 @@ Beyond conversion percentages, the analysis examines how each channel contribute
 •	Faster converting sessions (especially Organic) are strong candidates for **bundles, upsells, and cross sells** that increase order value without increasing acquisition cost.
 
 This framing helps Growth and Product teams see where incremental design and merchandising work could grow revenue.
-## 🧠 Key Insights
+<h2 align="center"> 🧠 Key Insights </h2>
 
 Across the funnel and channel analysis, several core insights emerge:
 
@@ -145,7 +148,7 @@ Across the funnel and channel analysis, several core insights emerge:
 •	**Revenue is unevenly distributed:** Email and Adwords carry most revenue, while faster converting Organic traffic is not fully monetized.
 
 These insights form the backbone of the project and guide the recommended actions.
-## ✅ Recommendations
+<h2 align="center"> ✅ Recommendations </h2>
 The following actions are prioritized by potential revenue impact and practicality.
 
 ### 1. Focus on checkout experience
@@ -214,7 +217,7 @@ Ideas:
 
 •	Adjust recommendations and tone by traffic source so Organic, Email, and Paid users each get guidance that matches how they typically decide.
 
-## 🔎 What I'do next with more data
+<h2 align="center"> 🔎 What I'do next with more data </h2>
 Several additional analyses become possible with more complete tracking and marketing data:
 
 •	**User level journey evaluation**
@@ -251,7 +254,7 @@ Several additional analyses become possible with more complete tracking and mark
       overall conversion from 1.54% to 2.0%.
       
     •	Communicate these scenarios to leadership as part of planning and resource allocation.
-## 🧱 Data foundation & assumptions    
+<h2 align="center"> 🧱 Data foundation & assumptions </h2>   
 Important assumptions and caveats:
     • The analysis uses session level web analytics data over a defined time period due to 
       missing user identifiers.
