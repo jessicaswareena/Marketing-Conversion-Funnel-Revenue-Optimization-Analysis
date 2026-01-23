@@ -18,7 +18,7 @@ This analysis is designed for stakeholders who need to quickly understand:
 
 •	What specific actions can unlock more revenue without raising acquisition spend.
 
-## 🌐 Key Insights & Analysis Focs area
+## 🌐 Key Insights & Analysis Focus area
 The work is organized around four core questions that shaped the metrics, visuals, and recommendations:
 
 •	Funnel health: How well do sessions move from visit → intent → purchase?
