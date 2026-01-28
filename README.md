@@ -32,7 +32,7 @@ The work is organized around four core questions that shaped the metrics, visual
 
 All subsequent sections connect directly back to these questions.
 
-<h2 align="center">  Data Structure</h2>
+<h2 align="center">  Dataset Structure and ERD (Entity relationship diagram) </h2>
 FlexLife's datastructure as seen below consists of four tables:Events,Users,Order_items,Orders with a total row count of 82,382 records.
 
 ![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/10b7433a4ee58b631073f550e52c3fedc40d8450/ER%20Diagram.jpeg)
